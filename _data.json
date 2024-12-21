@@ -1,0 +1,37 @@
+[
+  {
+    "imageUrl": "./product1.jpg",
+    "name": "Elegant Watch",
+    "description": "A beautifully crafted timepiece with precision engineering.",
+    "price": 299,
+    "productId": "4509876543210"
+  },
+  {
+    "imageUrl": "./product2.jpg",
+    "name": "Smart Fitness Tracker",
+    "description": "Track your fitness goals with this advanced smart tracker.",
+    "price": 99,
+    "productId": "4509876543211"
+  },
+  {
+    "imageUrl": "./product3.jpg",
+    "name": "Wireless Earbuds",
+    "description": "Experience superior sound with our latest wireless earbuds.",
+    "price": 149,
+    "productId": "4509876543212"
+  },
+  {
+    "imageUrl": "./product4.jpg",
+    "name": "Portable Charger",
+    "description": "Keep your devices powered on the go with our portable charger.",
+    "price": 49,
+    "productId": "4509876543213"
+  },
+  {
+    "imageUrl": "./product5.jpg",
+    "name": "Ultra HD Action Camera",
+    "description": "Capture your adventures in stunning 4K resolution.",
+    "price": 399,
+    "productId": "4509876543214"
+  }
+]
